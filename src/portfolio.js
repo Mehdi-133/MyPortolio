@@ -127,7 +127,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "YouCode School",
-      logo: require("./assets/images/image.png"),
+      logo: "./images/image.png",
       subHeader: "Full Stack Web Development",
       duration: "2025 - Present",
       desc: "Intensive project-based training in modern web development technologies.",
@@ -138,7 +138,7 @@ const educationInfo = {
     },
     {
       schoolName: "Université Hassan II",
-      logo: require("./assets/images/unnamed.jpg"),
+      logo: "./images/unnamed.jpg",
       subHeader: "Human Resources Management",
       duration: "2022 - 2024",
       desc: "Studied organizational behavior, team management, and professional communication.",
@@ -176,7 +176,7 @@ const workExperiences = {
     {
       role: "Problem Solving Project",
       company: "ALX Africa",
-      companylogo: require("./assets/images/unnamed1.jpg"),
+      companylogo: "./images/unnamed1.jpg",
       date: "2024",
       desc: "Worked on real-world problem solving in the education sector using Gap Problem Statement methodology.",
       descBullets: [
@@ -202,7 +202,7 @@ const bigProjects = {
   subtitle: "SOME OF MY RECENT WEB DEVELOPMENT PROJECTS",
   projects: [
     {
-      image: require("./assets/images/feeb75183886b4e710ea2990a3131b38.jpg"),
+      image: "./images/feeb75183886b4e710ea2990a3131b38.jpg",
       projectName: "actTogether",
       projectDesc: "Volunteer platform connecting students to social initiatives. Built during hackathon with PHP, JavaScript, and Tailwind CSS.",
       footerLink: [
@@ -213,7 +213,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/200663dfa0d1484534341b200261ce77.jpg"),
+      image: "./images/200663dfa0d1484534341b200261ce77.jpg",
       projectName: "MoneyMind",
       projectDesc: "Personal finance management web app with real-time transaction tracking and dynamic balance visualization.",
       footerLink: [
@@ -224,7 +224,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/70f795061cdae94165d8fb548e148557.jpg"),
+      image: "./images/70f795061cdae94165d8fb548e148557.jpg",
       projectName: "MediCare",
       projectDesc: "Medical management interface focused on user experience, integrating UI/UX prototyping and responsive frontend.",
       footerLink: [
@@ -235,7 +235,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/a6152c294382a7f34c5312be5920e3b5.jpg"),
+      image: "./images/a6152c294382a7f34c5312be5920e3b5.jpg",
       projectName: "QuizAppStudent",
       projectDesc: "Interactive quiz system with dynamic content loading using AJAX for smooth user experience.",
       footerLink: [
@@ -262,7 +262,7 @@ const achievementSection = {
       title: "Soft Skills Certification",
       subtitle:
         "Completed professional skills development program for the digital era at ALX Africa (August 13, 2024)",
-      image: require("./assets/images/unnamed1.jpg"),
+      image: "./images/unnamed1.jpg",
       imageAlt: "ALX Africa Logo",
       footerLink: [
         {
