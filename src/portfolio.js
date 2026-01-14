@@ -176,7 +176,7 @@ const workExperiences = {
     {
       role: "Problem Solving Project",
       company: "ALX Africa",
-      companylogo: require("./assets/images/unnamed (1).jpg"),
+      companylogo: require("./assets/images/unnamed1.jpg"),
       date: "2024",
       desc: "Worked on real-world problem solving in the education sector using Gap Problem Statement methodology.",
       descBullets: [
@@ -262,7 +262,7 @@ const achievementSection = {
       title: "Soft Skills Certification",
       subtitle:
         "Completed professional skills development program for the digital era at ALX Africa (August 13, 2024)",
-      image: require("./assets/images/unnamed (1).jpg"),
+      image: require("./assets/images/unnamed1.jpg"),
       imageAlt: "ALX Africa Logo",
       footerLink: [
         {
